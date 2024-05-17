@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "G:\\Git clone\\Student-Prerequisite-Subjects-Management-System\\Student Prerequisite Subjects Management System\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{CECC3DFA-A5B3-4246-AEE8-1B804FCA2D39}|Student Prerequisite Subjects Management System\\Student Prerequisite Subjects Management System.vcxproj|G:\\Git clone\\Student-Prerequisite-Subjects-Management-System\\Student Prerequisite Subjects Management System\\Student Prerequisite Subjects Management System\\Student Prerequisite Subjects Management System.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{CECC3DFA-A5B3-4246-AEE8-1B804FCA2D39}|Student Prerequisite Subjects Management System\\Student Prerequisite Subjects Management System.vcxproj|solutionrelative:Student Prerequisite Subjects Management System\\Student Prerequisite Subjects Management System.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Student Prerequisite Subjects Management System.cpp",
+              "DocumentMoniker": "G:\\Git clone\\Student-Prerequisite-Subjects-Management-System\\Student Prerequisite Subjects Management System\\Student Prerequisite Subjects Management System\\Student Prerequisite Subjects Management System.cpp",
+              "RelativeDocumentMoniker": "Student Prerequisite Subjects Management System\\Student Prerequisite Subjects Management System.cpp",
+              "ToolTip": "G:\\Git clone\\Student-Prerequisite-Subjects-Management-System\\Student Prerequisite Subjects Management System\\Student Prerequisite Subjects Management System\\Student Prerequisite Subjects Management System.cpp",
+              "RelativeToolTip": "Student Prerequisite Subjects Management System\\Student Prerequisite Subjects Management System.cpp",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-05-17T20:24:47.253Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
