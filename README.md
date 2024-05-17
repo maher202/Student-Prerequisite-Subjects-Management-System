@@ -8,6 +8,7 @@ This project implements a system to manage course prerequisites for students. It
 
 **Technologies Used:**
 - C++ for backend processing.
+- GUI
 - Visual Studio as the development environment.
 
 **How to Run:**
